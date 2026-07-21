@@ -1,4 +1,4 @@
-
+> **⚙️ Backend Companion:** This repository contains the React frontend application. You can find the Spring Boot backend API repository here: [CDAC Hub - Backend](https://github.com/mohitb777/cdac-hub-backend)
 
 ### 1. Frontend README (`README.md` for the React Repo)
 
